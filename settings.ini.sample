@@ -1,0 +1,10 @@
+[rest]
+host=https://urls.
+username=user
+password=pass
+
+[general]
+log_path=artifacts/log.txt
+log_mode=a
+# Log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+verbosity=DEBUG
